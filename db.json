@@ -1,7 +1,221 @@
 {
-  "user": [
-   
+  "users": [
+    {
+      "id": "u1",
+      "username": "shibangi",
+      "email": "shibangidas109@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u2",
+      "username": "coreyschafer",
+      "email": "coreyschafer@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u3",
+      "username": "biplab",
+      "email": "biplab@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u4",
+      "username": "smruti",
+      "email": "smruti@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u5",
+      "username": "saikishor",
+      "email": "saikishor@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u6",
+      "username": "prem",
+      "email": "prem@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u7",
+      "username": "binod",
+      "email": "binod@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u8",
+      "username": "sabita",
+      "email": "sabita@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u9",
+      "username": "richa",
+      "email": "richa@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "u10",
+      "username": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "12345678"
+    }
   ],
-  "recipies": []
+  "recipes": [
+    {
+      "id": 1,
+      "username": "coreyschafer",
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
+    },
+    {
+      "id": 2,
+      "username": "shibangi",
+      "title": "Autumn Cheesecake",
+      "image": "https://cdn.lifehack.org/wp-content/uploads/2013/11/110-380x285.jpg",
+      "description": "Everyone loves cheesecake. The texture, the fine taste, the unique blend of flavors. There is something extremely homely and welcoming about a piece of cheesecake with whipped cream.",
+      "category": "Dessert",
+      "ingredients": [
+        "1 Cup Graham Cracker crumbs",
+        " ½ Cup finely chopped pecans",
+        "3 Tbsp white sugar",
+        " ½ Tsp ground cinnamon",
+        " ¼ cup unsalted butter (melted)",
+        " 8 ounces cream cheese (softened)",
+        " ½ cup white sugar",
+        " 2 eggs",
+        " ½ Tsp vanilla extract",
+        "   4 cups apples (peeled, cored, sliced)",
+        " 1/3 cup white sugar",
+        " ½ Tsp ground cinnamon",
+        " ¼ cup chopped pecans"
+      ],
+      "instructions": "In a preheated oven (175 degrees C) bake the cracker crumbs, the 1/3 cup chopped pecans, 3 Tbsp sugar, ½ TSP cinnamon and the butter as the bottom layer. While this is baking in the oven, mix the cream cheese, sugar, eggs and vanilla in a large bowl, then add this to the baked bottom layer. Lastly, mix 1/3 cup sugar and ½ teaspoon cinnamon, then toss this composition over the sliced apples and add this to the cream cheese layer. Sprinkle with chopped pecans. Bake for 60 minutes. "
+    },
+    {
+      "id": 3,
+      "username": "biplab",
+      "title": "Creme Caramel",
+      "image": "https://cdn.lifehack.org/wp-content/uploads/2013/11/2.-creme-caraamel-380x253.jpg",
+      "description": "This is an extremely easy desert to prepare that requires only ingredients found in your fridge and is simple and fun to prepare.",
+      "category": "Dessert",
+      "ingredients": [
+        "1 ¼ cups caster sugar",
+        " 300 ml thickened cream",
+        " 1 ½ cups milk",
+        " 1 teaspoon vanilla extract",
+        "6 eggs"
+      ],
+      "instructions": "As always, start preheating your oven while you combine ¾ cup sugar and 1 cup cold water in a saucepan and cook over low heat. After the water has evaporated, cook at maximum heat for 5-7 minutes until golden. Pour the mixture into desert forms. The cream, milk and vanilla come together in a saucepan and are cooked while stirring. End by mixing the eggs and sugar in a bowl until smooth and adding it to the desert forms. Bake and cool in the fridge."
+    },
+    {
+      "id": 4,
+      "username": "smruti",
+      "title": "Khaman Dhokla",
+      "image": "https://www.spiceupthecurry.com/wp-content/uploads/2013/12/khaman-dhokla-2.jpg",
+      "description": "This Gujarati delicacy can be enjoyed as a snack, breakfast, or as a side with your festive or elaborated meal. ",
+      "category": "Starter",
+      "ingredients": [
+        "gram flour",
+        "Ginger, Green chili",
+        "Sugar",
+        "Turmeric powder",
+        "Hing",
+        "Oil",
+        "Citric acid",
+        "Baking soda"
+      ],
+      "instructions": "In a large bowl, add water, sugar, salt, hing, turmeric powder and citric acid.Whisk until sugar is dissolved.Sift the besan into the prepared water using a strainer. Whisk it until you get a lump-free batter. Notice the yellow color of batter.Now beat the batter in one direction for around 5-7 minutes. Yes, you’ll get good arm exercise.After beating, you’ll notice the batter gets lighter in color and you’ll notice so many tiny bubbles in the batter.Cover the bowl with a plate and let it rest for 10 minutes. During this resting time, bubbles will get stronger and will hold them longer.Add oil.Whisk again (not just mix) for a minute.Add ginger-green chili paste.Whisk again for another 1 minute. You’ll notice more bubbles. Keep it aside."
+    },
+    {
+      "id": 5,
+      "username": "saikishor",
+      "title": "Samosa Chaat",
+      "image": "https://www.spiceupthecurry.com/wp-content/uploads/2022/09/samosa-chaat-2.jpg",
+      "description": "The perfect tongue-tickling samosa chaat recipe! This super easy-to-make samosa chole chaat includes flavorful chana masala, flaky, crunchy samosa and topped with chutneys, yogurt, onion and sev.",
+      "category": "Starter",
+      "ingredients": [
+        "Samosa",
+        "Chana masala",
+        "Green chutney",
+        "Tamarind date chutney",
+        "Sev",
+        "Yogurt"
+      ],
+      "instructions": "Take a deep plate for individual serving. Make a bed of chana masala. You’ll need ⅓ - ½ cup of it for 1 large size samosa.Break & mash the samosa into 2-3 pieces and place it in the center.Drizzle around 2 tablespoons of green chutney.Drizzle around 2-3 tablespoons of tamarind date chutney.Drizzle 2-3 tablespoons of whisked salted yogurt.Sprinkle a generous pinch of chaat masala, followed by a tiny pinch of red chili powder.Sprinkle around 2 tablespoons of chopped onion. Then sprinkle some chopped cilantro.Followed by around 2-3 tablespoons of sev. Serve samosa chaat right away before samosa and sev gets soggy."
+    },
+    {
+      "id": 6,
+      "username": "prem",
+      "title": "Pani Puri",
+      "image": "https://www.spiceupthecurry.com/wp-content/uploads/2022/03/pani-puri-recipe-2.jpg",
+      "description": "Pani puri is the most popular Indian street food and is loved by everyone whether kids or adults. ",
+      "category": "Starter",
+      "ingredients": [
+        "Mint leaves",
+        "Cilantro",
+        "Boondi",
+        "Green chilies",
+        "Pani puri masala powder",
+        "Water",
+        "Tamarind paste",
+        "Jaggery",
+        "Golgappa (puri)"
+      ],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
+    },
+    {
+      "id": 7,
+      "username": "binod",
+      "title": "Butter Chicken",
+      "image": "https://picturetherecipe.com/wp-content/uploads/2020/04/PictureTheRecipe-Butter-Chicken.jpg",
+      "description": "Grilled chicken in a luscious tomato-based spiced curry sauce.There’s about a bazillion versions of this very popular Indian dish,",
+      "category": "Main Course",
+      "ingredients": [
+        "3-4 Chicken Breasts/ Thighs boneless",
+        " 1 Tbsp Ginger-Garlic paste",
+        "2 tsp Chili Powder Kashmiri Chilli or a mix of Cayenne & Paprika",
+        " 2 Tbsp Greek Yogurt plain",
+        "  1 Lime juiced",
+        " Salt to taste"
+      ],
+      "instructions": "Mix the garlic-ginger, chili powder, yogurt, salt and lime juice to make a paste. Apply it to the chicken pieces (keeping them whole or in big pieces for easy grilling) ,marinate and let itsit for at least 30 mins or longer.Once  marinated cook on high heat on the grill to get a charred flavor. The chicken doesn't need to cook all the way through, you'll be cubing and finishing it in the sauce."
+    },
+    {
+      "id": 8,
+      "username": "sabita",
+      "title": "Palak Paneer",
+      "image": "https://picturetherecipe.com/wp-content/uploads/2019/10/Palak-Paneer-by-PictureTheRecipe.jpg",
+      "description": "Indian cottage cheese over a vibrant green spiced spinach sauce and finished with a splash of cashew cream.Palak Paneer a classic north Indian dish of cottage cheese cubes in a spinach based sauce.",
+      "category": "Main Course",
+      "ingredients": [
+        "1-1.5 cups Paneer* cubed",
+        " 3- 4 cups Spinach packed",
+        " 2-3 tbsp oil/butter as needed",
+        " 2-3 green chilies (thai peppers) adjust to your spice level",
+        "3/4 cup onion diced or blended",
+        "1 tsp garlic-ginger paste",
+        "1/2 cup tomatoes diced or puree",
+        "1/2 tsp kasuri methi (dried fenugreek leaves) (optional but recomended if available)",
+        "8 cashews soaked in warm water & blended to a paste",
+        " 1/4 cup heavy cream"
+      ],
+      "instructions": "Add a teaspoon oil in a pan and add the sliced green chilies and spinach leaves. Cook the leaves until just wilted, but avoid overcooking to retain its vibrant green color. Set aside to cool.Once cooled blend the spinach and green chilies to a smooth puree.To make the gravy- heat oil in a pan and add the whole spices. as soon as they begin to splutter add the onions and sauté on medium high heat until they turn translucent.Add the ginger garlic paste and fry until the raw smell goes away.Add the tomatoes and season with salt. cook the tomatoes down until they turn mushy.The add the kasuri methi and spice powders and fry the mixture until it starts releasing oil.Pour in half a cup of water and stir until the mixture thickens.Lower the heat and add the spinach puree. mix well until it comes to a gentle simmer.(optional) Pan fry the paneer cubes with 1-2 tsp oil for 2-3 mins until golden on each side in a separate pan. Add the paneer cubes to the spinach mixture and turn off the heat.Add the cashew paste mixed with the cream and stir it in for added creaminess. Reserve some for garnish."
+    },
+    {
+      "id": 9,
+      "username": "richa",
+      "title": "Persian Chicken Joojeh Kebabs",
+      "image": "https://picturetherecipe.com/wp-content/uploads/2018/05/Persian-Chicken-Jooheh-Kebab-by-PictureTheRecipe.jpg",
+      "description": "Succulent chicken kebabs marinated with aromatic saffron and tangy lemon",
+      "category": "Main Course",
+      "ingredients": ["2 lbs Chicken Breast", "cubed 1 Small onion","diced 1/3 cup lemon juice","1/4 tsp Saffron threads"," crushed & dissolved in 1-2" ,"Tbsp Hot water","1/3 Cup Plain Greek Yogurt","1/4 tsp Turmeric","1/2 tsp pepper","Salt, to taste"],
+      "instructions": "Add the diced onion and lemon juice to a blender and puree into a smooth paste. You can also finely grate the onion instead and add the lemon juice to it.Dissolve the crushed saffron threads in 1-2 tablespoons of hot water in a bowl for 2-3 minutes.Add the onion-lemon juice paste, yogurt, turmeric, pepper and salt to the saffron bowl and mix well. This is your marinade.Add the marinade to the cubed chicken breast in either a zip lock bag or a bowl and allow the chicken cubes to marinate for a minimum of 2 hours but preferably overnight for the best tasting kebabs.Skewer the meat onto flat skewers and cook on the grill (charcoal is best!) until the meat is cooked through.Squeeze fresh lemon juice over the kebabs when done and serve garnished with onion & chopped parsley."
+    }
+    ]
  
 }
