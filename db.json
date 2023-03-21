@@ -53,12 +53,6 @@
       "username": "richa",
       "email": "richa@gmail.com",
       "password": "12345678"
-    },
-    {
-      "id": "u10",
-      "username": "krishna",
-      "email": "krishna@gmail.com",
-      "password": "12345678"
     }
   ],
   "recipes": [
